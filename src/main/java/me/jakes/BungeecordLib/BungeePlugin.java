@@ -1,7 +1,7 @@
-package de.howaner.BungeeCordLib;
+package me.jakes.BungeeCordLib;
 
-import de.howaner.BungeeCordLib.listener.BukkitListener;
-import de.howaner.BungeeCordLib.listener.BungeeListener;
+import me.jakes.BungeeCordLib.listener.BukkitListener;
+import me.jakes.BungeeCordLib.listener.BungeeListener;
 import java.util.logging.Logger;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
